@@ -5,7 +5,7 @@ public class Median {
 	public static void main(String[] args) {
 		
 	}
-	
+	//중앙값 구하는 메서드
 	static int mid3(int a, int b, int c) {
 		
 		if(a >= b) {
