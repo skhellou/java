@@ -1,2 +1,4 @@
-# JavaCodingTest
+#자료구조 <br>
+<hr>
+Do it! 자료구조와 함께 배우는 알고리즘 입문<br>
 자바 코딩테스트 수업
