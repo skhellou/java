@@ -4,6 +4,8 @@ public class Median {
 	
 	public static void main(String[] args) {
 		
+		System.out.println(mid3(2,34,21));
+		System.out.println(mid3(1,2,0));
 	}
 	//중앙값 구하는 메서드
 	static int mid3(int a, int b, int c) {
